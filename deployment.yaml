@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: annaliyx/flasktest:9
+      - image: annaliyx/flasktest:10
         name: flaskdemo
         resources: {}
 status: {}
